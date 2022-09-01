@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning React.js
 - 🧑🏻‍💻 I-m currently creating a Cryptocurrencies Blog Website
 - 📫 You can reach me: 
-       Email - daniofiore@hotmail.com 
-       Linkedin - https://www.linkedin.com/in/danio-fiore-2594431aa/
+       Email - daniofiorelavoro@gmail.com 
+       Linkedin - https://www.linkedin.com/in/danio-fiore
 
 <!---
 DanioFiore/DanioFiore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
