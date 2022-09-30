@@ -4,7 +4,7 @@
        Back-end: PHP, Laravel, Node.js, MySQL 
 - 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
 - 🌱 I’m currently learning React.js
-- 🧑🏻‍💻 I'm currently creating My personal Blogsite/Portfolio
+- 🧑🏻‍💻 I'm currently creating Crypto price App with React
 - 📫 You can reach me: 
        Email - daniofiorelavoro@gmail.com 
        Linkedin - https://www.linkedin.com/in/danio-fiore
