@@ -1,7 +1,7 @@
 - 👋 Hi everybody, I’m @DanioFiore, Full-Stack Developer
 - 💻 Programming languages and frameworks i learnt:
        Front-end: HTML, CSS, JAVASCRIPT, BOOTSTRAP
-       Back-end: PHP, Laravel, Node.js, MySQL 
+       Back-end: PHP, Laravel, MySQL 
 - 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
 - 🌱 I’m currently learning React.js
 - 🧑🏻‍💻 I'm currently creating small projects with React
