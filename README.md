@@ -1,7 +1,7 @@
 - 👋 Hi everybody, I’m @DanioFiore, Full-Stack Developer
 - 💻 Programming languages and frameworks i learnt:
        Front-end: HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind
-       Back-end: Java Base, PHP, Laravel, MySQL 
+       Back-end: Java Base, PHP, Laravel, MySQL, SQL
 - 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
 - 🌱 I’m currently learning Vue.JS
 - 🧑🏻‍💻 I'm currently creating small projects with Vue
