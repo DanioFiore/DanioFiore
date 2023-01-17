@@ -3,8 +3,8 @@
        Front-end: HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind
        Back-end: Java Base, PHP, Laravel, MySQL 
 - 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
-- 🌱 I’m currently learning React.js
-- 🧑🏻‍💻 I'm currently creating small projects with React
+- 🌱 I’m currently learning Vue.JS
+- 🧑🏻‍💻 I'm currently creating small projects with Vue
 - 📫 You can reach me: 
        Email - daniofiorelavoro@gmail.com 
        Linkedin - https://www.linkedin.com/in/danio-fiore
