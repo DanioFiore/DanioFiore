@@ -7,7 +7,6 @@
 - 🧑🏻‍💻 I'm currently creating small projects with Express.JS
 - 📫 You can reach me: 
        Email - daniofiorelavoro@gmail.com 
-       Linkedin - https://www.linkedin.com/in/danio-fiore
 
 <hr />
 <p>
