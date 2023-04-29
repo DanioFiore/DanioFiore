@@ -5,8 +5,7 @@
 - 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
 - 🌱 I’m currently learning Node.JS/Express.JS/MongoDB
 - 🧑🏻‍💻 I'm currently creating small projects with Express.JS
-- 📫 You can reach me: 
-       Email - daniofiorelavoro@gmail.com 
+- 📫 Email - daniofiorelavoro@gmail.com 
 
 <hr />
 <p>
