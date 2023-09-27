@@ -1,10 +1,9 @@
-- 👋 Hi everybody, I’m @DanioFiore, Full-Stack Developer
+- 👋 Hi crew, I’m @DanioFiore, Sofware Developer
 - 💻 Programming languages and frameworks i learnt:
-       Front-end: Html, Css, Javascript, Bootstrap, Vue.JS
-       Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB
-- 👀 I’m interested in Web Development and ₿ Cryptocurrencies ₿
-- 🌱 I’m currently learning Node.JS/Express.JS/MongoDB
-- 🧑🏻‍💻 I'm currently creating small projects with Express.JS
+       Front-end: Html, Css, Javascript, Bootstrap, Vue.JS, Bootstrap vue
+       Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB and a little bit of Java
+- 👀 I’m interested in ₿ Cryptocurrencies ₿, personal finance and do sport, expecially Kick Boxing
+- 🌱 I’m currently learning Node.JS/Express.JS/MongoDB and creating small projects with that
 - 📫 Email - daniofiorelavoro@gmail.com 
 
 <hr />
