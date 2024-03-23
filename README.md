@@ -1,9 +1,9 @@
 - 👋 Hi crew, I’m @DanioFiore, Sofware Developer
 - 💻 Programming languages and frameworks i learnt: <br />
        Front-end: Html, Css, Javascript, Bootstrap, Vue.JS, Bootstrap-vue <br />
-       Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB and a little bit of Java
+       Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB, Docker and a little bit of Java
 - 👀 I’m interested in ₿ Cryptocurrencies ₿, personal finance and do sport, expecially Kick Boxing
-- 🌱 I’m currently learning Docker!
+- 🌱 I’m currently learning Kubernetes!
 - 📫 Email - daniofiorelavoro@gmail.com 
 
 <hr />
@@ -24,6 +24,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-007fff?style=flat-square&logo=docker&logoColor=white" />
+       <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-007fff?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 <hr />
 
