@@ -1,10 +1,8 @@
 - 👋 Hi crew, I’m @DanioFiore, Sofware Developer
-- 💻 Programming languages and frameworks i learnt: <br />
-       Front-end: Html, Css, Javascript, Bootstrap, Vue.JS, Bootstrap-vue <br />
-       Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB, Docker.
+- 💻 I work for SysCo, where we produce dedicated softwares for railway systems!
 - 👀 I’m interested in ₿ Cryptocurrencies ₿, personal finance and do sport, expecially Kick Boxing
-- 🌱 I’m currently attending CS50 Harvard course!
-- 📫 Email - daniofiorelavoro@gmail.com 
+- 🌱 I’m currently attending an official Kubernetes course!
+- 📫 Email - daniofioredev@gmail.com 
 
 <hr />
 <p>
