@@ -7,7 +7,6 @@
 <hr />
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007fff?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-BA00BA?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="BootstrapVue" src="https://img.shields.io/badge/BootstrapVue-5A5A5A?style=flat-square&logo=bootstrap&logoColor=white" />
