@@ -15,6 +15,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blueviolet" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-red?style=flat-square&logo=Flask&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-white?style=flat-square&logo=FastAPI&logoColor=green" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-B9B900?style=flat-square&logo=express&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/Php-000000?style=flat-square&logo=php&logoColor=blueviolet" />
