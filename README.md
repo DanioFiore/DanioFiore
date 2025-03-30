@@ -1,7 +1,7 @@
 - 👋 Hi crew, I’m @DanioFiore, Sofware Developer
 - 💻 I work for SysCo, where we produce dedicated softwares for railway systems!
-- 👀 I’m interested in ₿ Cryptocurrencies ₿, personal finance and do sport, expecially Kick Boxing
-- 🌱 I’m currently creating an open source cryptocurrencies tax calculator!
+- 👀 I’m interested in Blockchain, personal finance and do sport, expecially Kick Boxing
+- 🌱 I’m currently creating an open source App for IOS inspired by Solo Leveling
 - 📫 Email - daniofioredev@gmail.com 
 
 <hr />
@@ -16,8 +16,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blueviolet" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-red?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-white?style=flat-square&logo=FastAPI&logoColor=green" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-B9B900?style=flat-square&logo=express&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/Php-000000?style=flat-square&logo=php&logoColor=blueviolet" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-930015?style=flat-square&logo=laravel&logoColor=red" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
