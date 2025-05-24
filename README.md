@@ -1,7 +1,7 @@
 - 👋 Hi crew, I’m @DanioFiore, Sofware Developer
 - 💻 I work for SysCo, where we produce dedicated softwares for railway systems!
 - 👀 I’m interested in Blockchain, personal finance and do sport, expecially Kick Boxing
-- 🌱 I’m currently creating an open source App for IOS inspired by Solo Leveling
+- 🌱 I’m currently creating an app for personal finance
 - 📫 Email - daniofioredev@gmail.com 
 
 <hr />
