@@ -14,7 +14,6 @@
   <hr />
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blueviolet" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-red?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-white?style=flat-square&logo=FastAPI&logoColor=green" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=blueviolet" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-930015?style=flat-square&logo=laravel&logoColor=red" />
