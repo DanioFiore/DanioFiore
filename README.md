@@ -8,7 +8,7 @@
 <hr />
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=blueviolet" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-white?style=flat-square&logo=FastAPI&logoColor=green" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=Django&logoColor=green" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=blueviolet" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-930015?style=flat-square&logo=laravel&logoColor=red" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
